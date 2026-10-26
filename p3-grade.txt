@@ -1,0 +1,30 @@
+Name:
+
+Grade:   /100
+
+Comments:
+
+Testing:
+	-Submission layout:
+		-The repository only contains required files:
+		-The  repository does not contain unecessary files, 
+		 such as .class files, input and output folders:
+	-Functional Requirements:
+		-Basics: (30 points): 
+			Schema was adjusted correctly:
+			Projections and filters:
+			Renaming, Adding, and Dropping Columns:
+			Aggregations:
+		-Six specified queries are implemented correctly (30 points):
+		-Two additional queries are implemented correctly (20 points):
+
+Design & documentation (20 points):
+	-README.md file:
+		-Are results of queries provided in the README.md file as specified in the project
+		 description? (5 points):
+		-Test plan: (5 points)
+		-Results of scalability test for four versus 8 executors: (5 points)
+
+	-Code organization & style: (5 points)
+		-The code is documented professionally:
+		-The code is readable without unreasonable effort:
